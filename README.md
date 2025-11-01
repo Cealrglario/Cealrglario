@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 
+
+#### I am a 3rd year software engineering student at the University of Calgary with a minor in aerospace. 
+
+I'm currently expanding my knowledge in embedded systems and software design, currently learning about RTOS and inter-task exclusion/communication (mutexes, sempahores, and message queues).
+
+I also have experience in object oriented design and programming, and thorough experience in bare-metal embedded programming (handling interrupts, peripheral drivers, etc.).
 
 <!--
 **Cealrglario/Cealrglario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
