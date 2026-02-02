@@ -1,6 +1,6 @@
 ## Hi there! 
 
-#### I am a 3rd year software engineering student at the University of Calgary with a minor in aerospace. 
+#### I am a 3rd year software engineering student at the University of Calgary.
 
 I'm currently expanding my knowledge in embedded systems and software design, learning about RTOS and inter-task exclusion/communication (mutexes, sempahores, and message queues).
 
